@@ -16,7 +16,7 @@ spec:
       labels:
         app: java
   spec:
-    conatiners:
+    containers:
     - name: javawebapp 
       image: vishnukrn/java-web-app
       ports:
